@@ -1,1 +1,1 @@
-#README gor adm1
+#README for adm1
